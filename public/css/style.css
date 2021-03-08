@@ -1,0 +1,26 @@
+h1 {color: red;
+    text-transform: uppercase;}
+form, header{
+    border-radius: 1em;
+    position: relative;
+    left: 50%;
+    padding: 1em;
+    margin-right: -50%;
+}
+header{
+    transform: translate(-5%, 0%)
+}
+input{
+    transform: translate(-50%, -50%);
+}
+.profile-image {
+    max-width: 600px;
+}
+a {
+    border-radius: 1em;
+    position: relative;
+    left: 50%;
+    padding: 1em;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
