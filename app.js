@@ -23,12 +23,7 @@ const config = {
 
 vertex.configureApp(app, config)
 
-const sesja = require('express-session')
-app.use(sesja({
-  secret: 'Poliszynel',
-  resave: false,
-  saveUninitialized: true
-}))
+
 // import routes
 const login = require('./routes/login')
 const rejestracja = require('./routes/rejestracja')

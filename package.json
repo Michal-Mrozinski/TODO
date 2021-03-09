@@ -15,7 +15,9 @@
     "vertex360": "^0.30.39",
     "express": "^4.17.1",
     "mysql": "latest",
-    "express-session": "latest",
+    "passport": "latest",
+    "jsonwebtoken": "latest",
+    "dotenv": "8.2.0",
     "body-parser": "latest",
     "path": "latest"
   },

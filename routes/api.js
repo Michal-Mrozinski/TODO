@@ -2,6 +2,7 @@
 const express = require('express')
 const router = express.Router()
 
+
 /*  This is a sample API route. */
 
 router.get('/:resource', (req, res) => {
