@@ -14,7 +14,7 @@
     "turbo360": "^1.8.69",
     "vertex360": "^0.30.39",
     "express": "^4.17.1",
-    "mysql": "latest",
+    "mysql2": "latest",
     "passport": "latest",
     "jsonwebtoken": "latest",
     "dotenv": "8.2.0",
